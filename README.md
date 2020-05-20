@@ -8,6 +8,7 @@ python src/main.py
 1. 添加分类后自动绑定快捷键1-9
 
 效果
+
 ![效果.gif](https://i.loli.net/2020/05/20/QGObKwclEzUejkV.gif)
 
 
